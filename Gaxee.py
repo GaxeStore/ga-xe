@@ -7,15 +7,15 @@ with col2:
 
 # Data produk
 options_merchan = {
-    "Rak Dapur Pengering Piring": {"Harga": 120000, "gambar": "rakm.WEBP"},
-    "Rak Organizer Susun": {"Harga": 90000, "gambar": "rakp.WEBP"},
-    "Toples Penyimpanan": {"Harga": 75000, "gambar": "toples.WEBP"},
-    "Sikat Electric": {"Harga": 150000, "gambar": "sikat.WEBP"},
-    "Super Senter LED": {"Harga": 130000, "gambar": "senter.WEBP"},
-    "Toothpick Otomatis": {"Harga": 85000, "gambar": "tootp.WEBP"},
+    "Rak Dapur Pengering Piring": {"Harga": 120000, "gambar": "rakm.webp"},
+    "Rak Organizer Susun": {"Harga": 90000, "gambar": "rakp.webp"},
+    "Toples Penyimpanan": {"Harga": 75000, "gambar": "toples.webp"},
+    "Sikat Electric": {"Harga": 150000, "gambar": "sikat.webp"},
+    "Super Senter LED": {"Harga": 130000, "gambar": "senter.webp"},
+    "Toothpick Otomatis": {"Harga": 85000, "gambar": "tootp.webp"},
     "Alat Pel Peras": {"Harga": 180000, "gambar": "pelperas.webp"},
     "Alat Pel Semprot": {"Harga": 200000, "gambar": "pelsemprot.webp"},
-    "Vacuum Cleaner": {"Harga": 320000, "gambar": "vcm.WEBP"}
+    "Vacuum Cleaner": {"Harga": 320000, "gambar": "vcm.webp"}
 }
 
 index = 0
