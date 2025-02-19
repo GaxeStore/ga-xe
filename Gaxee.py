@@ -7,15 +7,15 @@ with col2:
 
 # Data produk
 options_merchan = {
-    "Rak Dapur Pengering Piring": {"Harga": 120000, "gambar": "rakm.PNG"},
-    "Rak Organizer Susun": {"Harga": 90000, "gambar": "rakp.PNG"},
-    "Toples Penyimpanan": {"Harga": 75000, "gambar": "toples.PNG"},
-    "Sikat Electric": {"Harga": 150000, "gambar": "sikat.PNG"},
-    "Super Senter LED": {"Harga": 130000, "gambar": "senter.PNG"},
-    "Toothpick Otomatis": {"Harga": 85000, "gambar": "tootp.PNG"},
-    "Alat Pel Peras": {"Harga": 180000, "gambar": "pelperas.PNG"},
-    "Alat Pel Semprot": {"Harga": 200000, "gambar": "pelsemprot.PNG"},
-    "Vacuum Cleaner": {"Harga": 320000, "gambar": "vcm.PNG"}
+    "Rak Dapur Pengering Piring": {"Harga": 120000, "gambar": "rakm.png"},
+    "Rak Organizer Susun": {"Harga": 90000, "gambar": "rakp.png"},
+    "Toples Penyimpanan": {"Harga": 75000, "gambar": "toples.png"},
+    "Sikat Electric": {"Harga": 150000, "gambar": "sikat.png"},
+    "Super Senter LED": {"Harga": 130000, "gambar": "senter.png"},
+    "Toothpick Otomatis": {"Harga": 85000, "gambar": "tootp.png"},
+    "Alat Pel Peras": {"Harga": 180000, "gambar": "pelperas.png"},
+    "Alat Pel Semprot": {"Harga": 200000, "gambar": "pelsemprot.png"},
+    "Vacuum Cleaner": {"Harga": 320000, "gambar": "vcm.png"}
 }
 
 index = 0
