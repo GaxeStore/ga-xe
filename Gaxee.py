@@ -33,3 +33,8 @@ for row in range(3):
                     st.markdown(f'<a href="https://wa.me/6282331257397?text=Permisi+kak,+saya+ingin+memesan+{option}" target="_blank">Klik di sini</a>', unsafe_allow_html=True)
             index += 1
 
+col1, col2, col3 = st.columns([1, 10, 1])
+with col2:
+    st.write("Note:")
+    st.write("Mohon untuk melakukan video unboxing dan pengecekan barang")
+    st.write("Komplain tanpa video unboxing dan foto bukti tidak akan di terima.")
