@@ -8,7 +8,7 @@ with col2:
 
 # Data produk
 options_merchan = {
-    "Rak Dapur Pengering Piring": {"page": st.Page(page="Produk page/rakp.py"), "gambar": "rakm.png"},
+    "Rak Dapur Pengering Piring": {"page": 30000, "gambar": "rakm.png"},
     "Rak Organizer Susun": {"page": 90000, "gambar": "rakp.png"},
     "Toples Penyimpanan": {"page": 75000, "gambar": "toples.png"},
     "Sikat Electric": {"page": 150000, "gambar": "sikat.png"},
